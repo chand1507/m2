@@ -1,0 +1,78 @@
+2019-01-08 11:36:47,078 INFO [root] - Customer details added successfully:
+2019-01-08 11:40:30,980 INFO [root] - Customer details added successfully:
+2019-01-08 11:49:19,944 INFO [root] - Customer details added successfully:
+2019-01-08 11:49:37,324 INFO [root] - Customer details added successfully:
+2019-01-08 11:49:51,599 INFO [root] - Customer details added successfully:
+2019-01-08 11:56:03,458 INFO [root] - Customer details added successfully:
+2019-01-08 11:58:19,968 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 11:59:10,649 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 11:59:11,589 INFO [root] - Customer details added successfully:
+2019-01-08 12:00:15,258 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:00:20,225 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:00:25,600 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:00:36,357 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:05:15,443 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:05:33,178 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:05:37,578 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:05:41,582 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:05:45,250 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:05:50,154 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:06:39,949 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:06:46,293 ERROR [root] - exception occured
+com.cg.test.exception.LoanException: [ name should start with capital letter & length should be greater than 6 ,  address  should start with capital letter & length should be atleast 5 characters , enter valid email which contains an upper case & 1 symbol & numerics ]
+	at com.cg.xyz.service.LoanService.validateCustomer(LoanService.java:62)
+	at com.cg.xyz.ui.ExecuterMain.populateCustomer(ExecuterMain.java:162)
+	at com.cg.xyz.ui.ExecuterMain.main(ExecuterMain.java:54)
+2019-01-08 12:16:55,000 INFO [root] - Customer details added successfully:
